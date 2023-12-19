@@ -26,6 +26,7 @@
 </tr>
 </table>
 
+
 ---
 
 <h3 align="center">My Statistics:</h3>
@@ -39,6 +40,8 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=malishaperera&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malishaperera&theme=tokyonight)
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=malishaperera&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
