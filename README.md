@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java,Oop,Sql**
 
-- 📫 How to reach me **malisha.shavinda@gmail.com**
+- 📫 How to reach me **malishashavinda@gmail.com**
   
 
 </td>
