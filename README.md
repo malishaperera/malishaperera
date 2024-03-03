@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **IJSE**
 
-- 💬 Ask me about **Java,Oop,Sql**
+- 💬 Ask me about **Java,Oop,Sql,html,css**
 
 - 📫 How to reach me **malishashavinda@gmail.com**
   
