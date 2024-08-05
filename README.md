@@ -3,6 +3,7 @@
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=malishaperera&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -19,7 +20,8 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="https://media.licdn.com/dms/image/D4E12AQGrNoiFzdi51A/article-cover_image-shrink_720_1280/0/1708037630649?e=1728518400&v=beta&t=tJEnFAitXdbx4jNJLHEExITyMf3-baRjd-v3LccAbYI">
+
 
   
   </td>
