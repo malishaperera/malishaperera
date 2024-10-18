@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java,Oop,Sql,html,css**
 
-- 📫 How to reach me **malishashavinda@gmail.com**
+- 📫 How to reach me **malishashavinda577@gmail.com**
   
 
 </td>
