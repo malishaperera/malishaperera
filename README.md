@@ -19,7 +19,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://media.licdn.com/dms/image/D4E12AQGrNoiFzdi51A/article-cover_image-shrink_720_1280/0/1708037630649?e=1728518400&v=beta&t=tJEnFAitXdbx4jNJLHEExITyMf3-baRjd-v3LccAbYI">
+  <img align="center" alt="Coding" width="450" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
 
 </td>
 </tr>
